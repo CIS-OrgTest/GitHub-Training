@@ -8,6 +8,7 @@
 *	GitHub Tutorial/practical: http://jlord.us/git-it/ 
 *	GitHub Pull Request Tutorial/Practical: https://github.com/CIS-OrgTest/pull-request-tutorial
 *	GitHub PULL REQUEST, Branching, Merging & Team Workflow Video: https://www.youtube.com/watch?v=oFYyTZwMyAg
+*	GitHub Creating Releases: https://help.github.com/articles/creating-releases/
 *	GitHub Guides - Video: https://vimeo.com/channels/githubguides or https://plus.google.com/+GitHubGuides/videos
 *	GitHub Use form Terminal/CLI: https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/ 
 *	GitHub for Government: https://government.github.com/ 

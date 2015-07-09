@@ -1,11 +1,11 @@
 #Github Training
 * Powerful collaboration, code review, and code management for open source and private projects:https://help.github.com/articles/good-resources-for-learning-git-and-github/
 * Quick Overview of basic Git and GitHub including Flows: https://guides.github.com/
-*	Inside GitHub's Super-Lean Management Strategy—And How It Drives Innovation (article): http://www.fastcompany.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
+* GitHub Training and Practicals: https://training.github.com/kit/ 
 *	Github for Beginners, Part 1 (article): http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
 *	Github for Beginners, Part 2 (article): http://readwrite.com/2013/10/02/github-for-beginners-part-2
-*	http://jlord.us/git-it/ - GitHub Tutorial/practical
-*	https://training.github.com/kit/ - GitHub Training and Practicals
+*	GitHub Advanced Training: https://training.github.com/kit/advanced/
+*	GitHub Tutorial/practical: http://jlord.us/git-it/ 
 *	https://vimeo.com/channels/githubguides or https://plus.google.com/+GitHubGuides/videos - GitHub Guides - Video
 *	https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/ - GitHub Use form Terminal/CLI
 *	https://government.github.com/ GitHub for Government
@@ -15,6 +15,7 @@
 *	How to Use Git and Github—Version Control for Code: https://www.udacity.com/course/how-to-use-git-and-github--ud775
 *	Github on YouTube: https://www.youtube.com/user/github
 *	Github Plugin for Jenkins: https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Plugin
+*	Inside GitHub's Super-Lean Management Strategy—And How It Drives Innovation (article): http://www.fastcompany.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
 
 #Skillsoft Training
 * Git Fundamentals: GitHub Integrations 

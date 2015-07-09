@@ -1,4 +1,4 @@
-#Github Training
+﻿#Github Training
 * Powerful collaboration, code review, and code management for open source and private projects:https://help.github.com/articles/good-resources-for-learning-git-and-github/
 * Quick Overview of basic Git and GitHub including Flows: https://guides.github.com/
 * GitHub Training and Practicals: https://training.github.com/kit/ 
@@ -19,6 +19,7 @@
 *	Github on YouTube: https://www.youtube.com/user/github
 *	Github Plugin for Jenkins: https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Plugin
 *	Inside GitHub's Super-Lean Management Strategy—And How It Drives Innovation (article): http://www.fastcompany.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
+*       GitHub Training video
 
 #Skillsoft Training
 * Git Fundamentals: GitHub Integrations 

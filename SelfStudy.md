@@ -6,6 +6,7 @@
 *	Github for Beginners, Part 2 (article): http://readwrite.com/2013/10/02/github-for-beginners-part-2
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/
 *	GitHub Tutorial/practical: http://jlord.us/git-it/ 
+*	GitHub Pull Request Tutorial/Practical: https://github.com/CIS-OrgTest/pull-request-tutorial
 *	GitHub Guides - Video: https://vimeo.com/channels/githubguides or https://plus.google.com/+GitHubGuides/videos
 *	GitHub Use form Terminal/CLI: https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/ 
 *	GitHub for Government: https://government.github.com/ 

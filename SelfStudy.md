@@ -19,21 +19,20 @@
 *	How to Use Git and Github—Version Control for Code: https://www.udacity.com/course/how-to-use-git-and-github--ud775
 *	Github on YouTube: https://www.youtube.com/user/github
 *	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/
-*	
+	
 ### Advanced
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/
-*	
+
 ### GitHub Administration
 * GitHub Training video- Admin How To - Setting Up and Managing Organizations and Teams:https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
-* 
+
 ### Best Practices
 *	GitHub for Government: https://government.github.com/
-*	
+	
 ### Misc
 *	GitHub - Creating Releases: https://help.github.com/articles/creating-releases/
 *	Github Plugin for Jenkins: https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Plugin
 *	Inside GitHub's Super-Lean Management Strategy—And How It Drives Innovation (article): http://www.fastcompany.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
-
 
 ### SkillSoft Training
 * Git Fundamentals: GitHub Integrations 

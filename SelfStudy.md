@@ -20,7 +20,7 @@
 *	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/
 ### Advanced
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/
-###GitHub Administration
+### GitHub Administration
 * GitHub Training video- Admin How To - Setting Up and Managing Organizations and Teams:https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
 ### Best Practices
 *	GitHub for Government: https://government.github.com/ 

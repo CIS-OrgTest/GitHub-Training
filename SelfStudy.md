@@ -7,6 +7,7 @@
 *	Github for Beginners, Part 2 (article): http://readwrite.com/2013/10/02/github-for-beginners-part-2
 *	Try Git—Code School: https://try.github.io/levels/1/challenges/1
 *	GitHub Tutorial/practical: http://jlord.us/git-it/ 
+
 ### Functional
 *	GitHub Pull Request Tutorial/Practical: https://github.com/CIS-OrgTest/pull-request-tutorial
 *	GitHub PULL REQUEST, Branching, Merging & Team Workflow Video: https://www.youtube.com/watch?v=oFYyTZwMyAg
@@ -18,12 +19,16 @@
 *	How to Use Git and Github—Version Control for Code: https://www.udacity.com/course/how-to-use-git-and-github--ud775
 *	Github on YouTube: https://www.youtube.com/user/github
 *	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/
+*	
 ### Advanced
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/
+*	
 ### GitHub Administration
 * GitHub Training video- Admin How To - Setting Up and Managing Organizations and Teams:https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
+* 
 ### Best Practices
-*	GitHub for Government: https://government.github.com/ 
+*	GitHub for Government: https://government.github.com/
+*	
 ### Misc
 *	GitHub - Creating Releases: https://help.github.com/articles/creating-releases/
 *	Github Plugin for Jenkins: https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Plugin

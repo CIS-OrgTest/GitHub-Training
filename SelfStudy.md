@@ -23,12 +23,13 @@
 ### Advanced
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/
 *	GitHub Issues Overview: https://guides.github.com/features/issues/
+*	Ben Straub Decks: https://speakerdeck.com/benstraub
 
 ### GitHub Administration
 * GitHub Training video- Admin How To - Setting Up and Managing Organizations and Teams:https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
 * GitHub General Permissions: https://help.github.com/articles/what-are-the-different-access-permissions/
 * GitHub Organization Repository Permission Levels: https://help.github.com/articles/permission-levels-for-an-organization-repository/
-* GitHub Issues ONly Permissions: https://help.github.com/articles/issues-only-access-permissions/
+* GitHub Issues Only Permissions: https://help.github.com/articles/issues-only-access-permissions/
 
 ### Best Practices
 *	GitHub for Government: https://government.github.com/

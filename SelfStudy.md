@@ -2,6 +2,7 @@
 * Powerful collaboration, code review, and code management for open source and private projects:https://help.github.com/articles/good-resources-for-learning-git-and-github/
 * Quick Overview of basic Git and GitHub including Flows: https://guides.github.com/
 * GitHub Training and Practicals: https://training.github.com/kit/ 
+* GitHub Training Series-YouTube-phpacademy: http://tinyurl.com/p25jau6
 *	Github for Beginners, Part 1 (article): http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
 *	Github for Beginners, Part 2 (article): http://readwrite.com/2013/10/02/github-for-beginners-part-2
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/

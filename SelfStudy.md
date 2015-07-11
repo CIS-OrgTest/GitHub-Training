@@ -23,7 +23,7 @@
 *	Github Plugin for Jenkins: https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Plugin
 *	Inside GitHub's Super-Lean Management Strategy—And How It Drives Innovation (article): http://www.fastcompany.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
 * GitHub Training video- Admin How To - Setting Up and Managing Organizations and Teams:https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
-* 
+
 ## SkillSoft Training
 * Git Fundamentals: GitHub Integrations 
 Featuring Ben Straub 

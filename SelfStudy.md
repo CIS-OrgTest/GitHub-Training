@@ -18,7 +18,9 @@
 *	Github Archive: https://www.githubarchive.org
 *	How to Use Git and Github—Version Control for Code: https://www.udacity.com/course/how-to-use-git-and-github--ud775
 *	Github on YouTube: https://www.youtube.com/user/github
-*	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/
+*	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/*       How to Fork a Repo https://help.github.com/articles/fork-a-repo/
+*       How to Fork a Project  https://guides.github.com/activities/forking/
+
 	
 ### Advanced
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/

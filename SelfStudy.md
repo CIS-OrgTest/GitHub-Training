@@ -41,6 +41,8 @@
 
 ### SkillSoft Training
 * Git Fundamentals: GitHub Integrations 
+*       How to Fork a Repo https://help.github.com/articles/fork-a-repo/
+*       How to Fork a Project  https://guides.github.com/activities/forking/
 Featuring Ben Straub 
 Skillsoft Ireland Limited © 2015 
 Length: 4 minutes Citation 

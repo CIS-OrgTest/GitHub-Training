@@ -18,13 +18,20 @@
 *	Github Archive: https://www.githubarchive.org
 *	How to Use Git and Github—Version Control for Code: https://www.udacity.com/course/how-to-use-git-and-github--ud775
 *	Github on YouTube: https://www.youtube.com/user/github
-*	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/
+*	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/*       How to Fork a Repo https://help.github.com/articles/fork-a-repo/
+*       How to Fork a Project  https://guides.github.com/activities/forking/
+
 	
 ### Advanced
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/
+*	GitHub Issues Overview: https://guides.github.com/features/issues/
+*	Ben Straub Decks: https://speakerdeck.com/benstraub
 
 ### GitHub Administration
 * GitHub Training video- Admin How To - Setting Up and Managing Organizations and Teams:https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
+* GitHub General Permissions: https://help.github.com/articles/what-are-the-different-access-permissions/
+* GitHub Organization Repository Permission Levels: https://help.github.com/articles/permission-levels-for-an-organization-repository/
+* GitHub Issues Only Permissions: https://help.github.com/articles/issues-only-access-permissions/
 
 ### Best Practices
 *	GitHub for Government: https://government.github.com/
@@ -36,6 +43,7 @@
 
 ### SkillSoft Training
 * Git Fundamentals: GitHub Integrations 
+
 Featuring Ben Straub 
 Skillsoft Ireland Limited © 2015 
 Length: 4 minutes Citation 

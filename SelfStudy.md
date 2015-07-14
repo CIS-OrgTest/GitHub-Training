@@ -43,9 +43,16 @@
 *	The Emergence of GitHub as a Collaborative Platform for
 Education: http://alexeyza.com/pdf/cscw15.pdf
 
-### SkillSoft Training
-* Git Fundamentals: GitHub Integrations 
+### Books
+*	Introducing GitHub: A Non-Technical Guide By Peter Bell, Brent Beer: https://goo.gl/ZhJPSt
+*	Version Control with Git, By Jon Loelige: https://goo.gl/W1Cyw2
+*	![ProGit Image](https://training.github.com/resources/books/assets/pro-git.jpg) Pro Git, by Scott Chacon: https://goo.gl/3KVX9f
+*	Git in Practice, by Mike McQuaid: http://goo.gl/hXhKct
+*	Getting Good with Git, by Andrew Burgess  :http://code.tutsplus.com/ebooks/getting-good-with-git
 
+### SkillSoft Training
+
+* Git Fundamentals: GitHub Integrations 
 Featuring Ben Straub 
 Skillsoft Ireland Limited © 2015 
 Length: 4 minutes Citation 

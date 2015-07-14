@@ -40,6 +40,8 @@
 *	GitHub - Creating Releases: https://help.github.com/articles/creating-releases/
 *	Github Plugin for Jenkins: https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Plugin
 *	Inside GitHub's Super-Lean Management Strategy—And How It Drives Innovation (article): http://www.fastcompany.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
+*	The Emergence of GitHub as a Collaborative Platform for
+Education: http://alexeyza.com/pdf/cscw15.pdf
 
 ### SkillSoft Training
 * Git Fundamentals: GitHub Integrations 

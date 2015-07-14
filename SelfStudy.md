@@ -44,7 +44,7 @@
 Education: http://alexeyza.com/pdf/cscw15.pdf
 
 ### Books
-*	Introducing GitHub: A Non-Technical Guide By Peter Bell, Brent Beer: https://goo.gl/ZhJPSt
+*	Introducing GitHub: A Non-Technical Guide By Peter Bell, Brent Beer: https://goo.gl/ZhJPSt ![intro Git](https://goo.gl/CvEWW1)
 *	Version Control with Git, By Jon Loelige: https://goo.gl/W1Cyw2
 *	Pro Git, by Scott Chacon: https://goo.gl/3KVX9f ![ProGit Image](https://pbs.twimg.com/profile_images/264116141/9781430218333_bigger.gif)
 *	Git in Practice, by Mike McQuaid: http://goo.gl/hXhKct ![GitinPractice](https://books.google.com/books/content?id=tBaSoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71N6tC2Q25DBc-ZxzFWGqvdsfEfBV4_9GxU6AOjOmF7RNr0Q3BTOVOmzUyTMuEaMk5yYNwzCoc7j0cI5a9Ym5pwHosMSyUC7TWDcAylqmBo_clDcXPQImB-MCB6o8h7Wi4QFfi4)

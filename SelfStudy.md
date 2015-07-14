@@ -20,6 +20,8 @@
 *	Github on YouTube: https://www.youtube.com/user/github
 *	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/*       How to Fork a Repo https://help.github.com/articles/fork-a-repo/
 *       How to Fork a Project  https://guides.github.com/activities/forking/
+*       Mastering Markdown: https://guides.github.com/features/mastering-markdown/
+*       Understanding Workflows on GitHub: https://www.atlassian.com/git/tutorials/comparing-workflows
 
 	
 ### Advanced

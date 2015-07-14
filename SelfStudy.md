@@ -46,7 +46,7 @@ Education: http://alexeyza.com/pdf/cscw15.pdf
 ### Books
 *	Introducing GitHub: A Non-Technical Guide By Peter Bell, Brent Beer: https://goo.gl/ZhJPSt
 *	Version Control with Git, By Jon Loelige: https://goo.gl/W1Cyw2
-*	![ProGit Image](https://training.github.com/resources/books/assets/pro-git.jpg =200x300) Pro Git, by Scott Chacon: https://goo.gl/3KVX9f
+*	![ProGit Image](https://d.gr-assets.com/books/1383771684l/6518085.jpg) Pro Git, by Scott Chacon: https://goo.gl/3KVX9f
 *	![GitinPractice](https://books.google.com/books/content?id=tBaSoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71N6tC2Q25DBc-ZxzFWGqvdsfEfBV4_9GxU6AOjOmF7RNr0Q3BTOVOmzUyTMuEaMk5yYNwzCoc7j0cI5a9Ym5pwHosMSyUC7TWDcAylqmBo_clDcXPQImB-MCB6o8h7Wi4QFfi4) Git in Practice, by Mike McQuaid: http://goo.gl/hXhKct
 *	Getting Good with Git, by Andrew Burgess  :http://code.tutsplus.com/ebooks/getting-good-with-git
 

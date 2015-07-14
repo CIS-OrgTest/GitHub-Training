@@ -7,6 +7,7 @@
 *	Github for Beginners, Part 2 (article): http://readwrite.com/2013/10/02/github-for-beginners-part-2
 *	Try Git—Code School: https://try.github.io/levels/1/challenges/1
 *	GitHub Tutorial/practical: http://jlord.us/git-it/ 
+*	Just Git training, videos, demos, practice: https://git-scm.com
 
 ### Functional
 *	GitHub Pull Request Tutorial/Practical: https://github.com/CIS-OrgTest/pull-request-tutorial

@@ -23,6 +23,9 @@
 *       How to Fork a Project  https://guides.github.com/activities/forking/
 *       Mastering Markdown: https://guides.github.com/features/mastering-markdown/
 *       Understanding Workflows on GitHub: https://www.atlassian.com/git/tutorials/comparing-workflows
+*       Enable 2 Factor Authentication: https://help.github.com/articles/configuring-two-factor-authentication-via-a-totp-mobile-app/
+*       Adding/Inviting Team Members: https://help.github.com/articles/adding-or-inviting-members-to-a-team-in-an-organization/
+
 
 	
 ### Advanced

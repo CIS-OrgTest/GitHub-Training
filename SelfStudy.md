@@ -1,7 +1,9 @@
 ﻿#Github Training
 ### Beginner Training
 * Quick Overview of basic Git and GitHub including Flows: https://guides.github.com/
+* GitHub Guides - Video: https://vimeo.com/channels/githubguides
 * Google+ GitHub Channel: https://plus.google.com/+GitHubGuides/videos
+* Github on YouTube: https://www.youtube.com/user/github
 * Quick Overview of basic Git and GitHub including Flows: https://guides.github.com/
 * Powerful collaboration, code review, and code management for open source and private projects: https://help.github.com/articles/good-resources-for-learning-git-and-github/
 * GitHub Training Series-YouTube-phpacademy: http://tinyurl.com/p25jau6
@@ -15,22 +17,21 @@
 *	Just Git training, videos, demos, practice: https://git-scm.com
 
 ### Functional
+*	Adding/Inviting Team Members: https://help.github.com/articles/adding-or-inviting-members-to-a-team-in-an-organization/
+*       Understanding Workflows on GitHub: https://www.atlassian.com/git/tutorials/comparing-workflows
 *	GitHub Pull Request Tutorial/Practical: https://github.com/CIS-OrgTest/pull-request-tutorial
 *	GitHub PULL REQUEST, Branching, Merging & Team Workflow Video: https://www.youtube.com/watch?v=oFYyTZwMyAg
 *	GitHub Creating Releases: https://help.github.com/articles/creating-releases/
-*	GitHub Guides - Video: https://vimeo.com/channels/githubguides or https://plus.google.com/+GitHubGuides/videos
 *	GitHub Use form Terminal/CLI: https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/ 
-*	Primer, The CSS toolkit and guidelines that power GitHub: http://primercss.io/
-*	Github Archive: https://www.githubarchive.org
 *	How to Use Git and Github—Version Control for Code: https://www.udacity.com/course/how-to-use-git-and-github--ud775
-*	Github on YouTube: https://www.youtube.com/user/github
-*	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/*     
+*	Markdown Basics: https://help.github.com/articles/markdown-basics/
+*	Mastering Markdown: https://guides.github.com/features/mastering-markdown/
 *	How to Fork a Repo https://help.github.com/articles/fork-a-repo/
 *       How to Fork a Project  https://guides.github.com/activities/forking/
-*       Mastering Markdown: https://guides.github.com/features/mastering-markdown/
-*       Understanding Workflows on GitHub: https://www.atlassian.com/git/tutorials/comparing-workflows
 *       Enable 2 Factor Authentication: https://help.github.com/articles/configuring-two-factor-authentication-via-a-totp-mobile-app/
-*       Adding/Inviting Team Members: https://help.github.com/articles/adding-or-inviting-members-to-a-team-in-an-organization/
+*       Primer, The CSS toolkit and guidelines that power GitHub: http://primercss.io/
+*       Github Archive: https://www.githubarchive.org
+     
 
 
 	

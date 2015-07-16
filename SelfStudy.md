@@ -32,9 +32,6 @@
 *       Primer, The CSS toolkit and guidelines that power GitHub: http://primercss.io/
 *       Github Archive: https://www.githubarchive.org
      
-
-
-	
 ### Advanced
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/
 *	GitHub Issues Overview: https://guides.github.com/features/issues/

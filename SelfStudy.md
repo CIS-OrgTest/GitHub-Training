@@ -1,37 +1,35 @@
 ﻿#Github Training
-### Beginner Training
+* Powerful collaboration, code review, and code management for open source and private projects:https://help.github.com/articles/good-resources-for-learning-git-and-github/
 * Quick Overview of basic Git and GitHub including Flows: https://guides.github.com/
-* GitHub Guides - Video: https://vimeo.com/channels/githubguides
-* Google+ GitHub Channel: https://plus.google.com/+GitHubGuides/videos
-* Github on YouTube: https://www.youtube.com/user/github
-* Quick Overview of basic Git and GitHub including Flows: https://guides.github.com/
-* Powerful collaboration, code review, and code management for open source and private projects: https://help.github.com/articles/good-resources-for-learning-git-and-github/
+* GitHub Training and Practicals: https://training.github.com/kit/ 
 * GitHub Training Series-YouTube-phpacademy: http://tinyurl.com/p25jau6
 *	Github for Beginners, Part 1 (article): http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
 *	Github for Beginners, Part 2 (article): http://readwrite.com/2013/10/02/github-for-beginners-part-2
-
-### Practical Training
-* GitHub Training and Practicals: https://training.github.com/kit/ 
 *	Try Git—Code School: https://try.github.io/levels/1/challenges/1
 *	GitHub Tutorial/practical: http://jlord.us/git-it/ 
-*	Just Git training, videos, demos, practice: https://git-scm.com
 
 ### Functional
-*	Adding/Inviting Team Members: https://help.github.com/articles/adding-or-inviting-members-to-a-team-in-an-organization/
-*       Understanding Workflows on GitHub: https://www.atlassian.com/git/tutorials/comparing-workflows
 *	GitHub Pull Request Tutorial/Practical: https://github.com/CIS-OrgTest/pull-request-tutorial
 *	GitHub PULL REQUEST, Branching, Merging & Team Workflow Video: https://www.youtube.com/watch?v=oFYyTZwMyAg
 *	GitHub Creating Releases: https://help.github.com/articles/creating-releases/
+*	GitHub Guides - Video: https://vimeo.com/channels/githubguides or https://plus.google.com/+GitHubGuides/videos
 *	GitHub Use form Terminal/CLI: https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/ 
+*	Primer, The CSS toolkit and guidelines that power GitHub: http://primercss.io/
+*	Github Archive: https://www.githubarchive.org
 *	How to Use Git and Github—Version Control for Code: https://www.udacity.com/course/how-to-use-git-and-github--ud775
-*	Markdown Basics: https://help.github.com/articles/markdown-basics/
-*	Mastering Markdown: https://guides.github.com/features/mastering-markdown/
+*	Github on YouTube: https://www.youtube.com/user/github
+*	GitHub Markdown Basics: https://help.github.com/articles/markdown-basics/*     
 *	How to Fork a Repo https://help.github.com/articles/fork-a-repo/
 *       How to Fork a Project  https://guides.github.com/activities/forking/
-*       Enable 2 Factor Authentication: https://help.github.com/articles/configuring-two-factor-authentication-via-a-totp-mobile-app/
-*       Primer, The CSS toolkit and guidelines that power GitHub: http://primercss.io/
-*       Github Archive: https://www.githubarchive.org
-     
+*       Mastering Markdown: https://guides.github.com/features/mastering-markdown/
+*       Understanding Workflows on GitHub: https://www.atlassian.com/git/tutorials/comparing-workflows
+*       Two-Factor Authentication Overview: https://help.github.com/categories/two-factor-authentication-2fa/
+*       Enable Two-Factor Authentication: https://help.github.com/articles/configuring-two-factor-authentication-via-a-totp-mobile-app/
+*       Adding/Inviting Team Members: https://help.github.com/articles/adding-or-inviting-members-to-a-team-in-an-organization/
+
+
+
+	
 ### Advanced
 *	GitHub Advanced Training: https://training.github.com/kit/advanced/
 *	GitHub Issues Overview: https://guides.github.com/features/issues/
@@ -50,19 +48,10 @@
 *	GitHub - Creating Releases: https://help.github.com/articles/creating-releases/
 *	Github Plugin for Jenkins: https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Plugin
 *	Inside GitHub's Super-Lean Management Strategy—And How It Drives Innovation (article): http://www.fastcompany.com/3020181/open-company/inside-githubs-super-lean-management-strategy-and-how-it-drives-innovation
-*	The Emergence of GitHub as a Collaborative Platform for
-Education: http://alexeyza.com/pdf/cscw15.pdf
-
-### Books
-*	Introducing GitHub: A Non-Technical Guide By Peter Bell, Brent Beer: https://goo.gl/ZhJPSt ![intro Git](https://goo.gl/CvEWW1)
-*	Version Control with Git, By Jon Loelige: https://goo.gl/W1Cyw2 ![vc git](https://goo.gl/lJAn44)
-*	FREE ---- Pro Git, by Scott Chacon: http://git-scm.com/book/en/v2 ![ProGit Image](https://pbs.twimg.com/profile_images/264116141/9781430218333_bigger.gif)
-*	Git in Practice, by Mike McQuaid: http://goo.gl/hXhKct ![GitinPractice](https://books.google.com/books/content?id=tBaSoAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71N6tC2Q25DBc-ZxzFWGqvdsfEfBV4_9GxU6AOjOmF7RNr0Q3BTOVOmzUyTMuEaMk5yYNwzCoc7j0cI5a9Ym5pwHosMSyUC7TWDcAylqmBo_clDcXPQImB-MCB6o8h7Wi4QFfi4)
-*	Getting Good with Git, by Andrew Burgess : http://code.tutsplus.com/ebooks/getting-good-with-git
 
 ### SkillSoft Training
-
 * Git Fundamentals: GitHub Integrations 
+
 Featuring Ben Straub 
 Skillsoft Ireland Limited © 2015 
 Length: 4 minutes Citation 
